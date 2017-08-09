@@ -1,0 +1,22 @@
+{
+  "name": "react-native-image-style",
+  "version": "1.0.0",
+  "description": "auto generate require image and image's style",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-native",
+    "image",
+    "style",
+    "generate",
+    "auto"
+  ],
+  "author": "razer",
+  "license": "MIT",
+  "dependencies": {
+    "image-size": "^0.6.1"
+  },
+  "devDependencies": {}
+}
